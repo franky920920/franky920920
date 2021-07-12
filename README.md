@@ -14,6 +14,11 @@ Credly: [https://www.credly.com/users/hsuan-li-chen/](https://www.credly.com/use
 #### Contact me:
 
 Email: [franky@frankychen.net](mailto:franky@frankychen.net)
+
+---
+![My Github status](https://github-readme-stats.vercel.app/api?username=franky920920&show_icons=true&count_private=true)
+
+![My mose used language](https://github-readme-stats.vercel.app/api?username=franky920920&show_icons=true&count_private=true)
 <!--
 **franky920920/franky920920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
