@@ -16,9 +16,9 @@ Credly: [https://www.credly.com/users/hsuan-li-chen/](https://www.credly.com/use
 Email: [franky@frankychen.net](mailto:franky@frankychen.net)
 
 ---
-![My Github status](https://github-readme-stats.vercel.app/api?username=franky920920&show_icons=true&count_private=true)
+![My Github status](https://github-readme-stats.vercel.app/api?username=franky920920&show_icons=true&count_private=true#gh-light-mode-only) ![My Github status](https://github-readme-stats.vercel.app/api?username=franky920920&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
 
-![My mose used language](https://github-readme-stats.vercel.app/api/top-langs/?username=franky920920&show_icons=true&count_private=true&layout=compact)
+![My mose used language](https://github-readme-stats.vercel.app/api/top-langs/?username=franky920920&show_icons=true&count_private=true&layout=compact#gh-light-mode-only) ![My mose used language](https://github-readme-stats.vercel.app/api/top-langs/?username=franky920920&show_icons=true&count_private=true&layout=compact&theme=dark#gh-dark-mode-only)
 <!--
 **franky920920/franky920920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
